@@ -1,4 +1,6 @@
-pandas
-matplotlib
-numpy
-openpyxl
+__pycache__/
+*.pyc
+*.log
+.env
+.idea/
+.vscode/

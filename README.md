@@ -74,4 +74,4 @@ Healthcare_Product_Analytics/
 
 **Pushpendu Chakraborty**
 
-GitHub: https://github.com/Pnc-Tech# Healthcare-Product-Analytics
+GitHub: https://github.com/Pnc-Tech/Healthcare-Product-Analytics

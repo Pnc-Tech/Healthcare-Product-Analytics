@@ -75,3 +75,23 @@ Healthcare_Product_Analytics/
 **Pushpendu Chakraborty**
 
 GitHub: https://github.com/Pnc-Tech/Healthcare-Product-Analytics
+
+---
+
+# 📸 Project Screenshots
+
+## 💻 Console Output
+
+![Console Output](images/project_output.png)
+
+---
+
+## 📊 Data Quality Report
+
+![Quality Report](images/quality_report.png)
+
+---
+
+## 📁 Project Structure
+
+![Project Structure](images/project_structure.png)

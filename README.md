@@ -11,17 +11,14 @@ This project demonstrates real-world data analysis techniques used by Data Analy
 ## 🚀 Features
 
 - Load medicine dataset from CSV
-- Data validation
+- Data quality validation
 - Missing value detection
-- Duplicate detection
-- Statistical analysis
-- Category-wise analysis
-- Business insights
-- Bar chart visualization
-- Pie chart visualization
-- Automatic chart saving
-
----
+- Duplicate row detection
+- Invalid price detection
+- Automatic quality report generation
+- Data cleaning pipeline
+- Export cleaned dataset
+- Modular Python architecture
 
 ## 🛠 Technologies
 
@@ -34,34 +31,34 @@ This project demonstrates real-world data analysis techniques used by Data Analy
 
 ---
 
-## 📁 Project Structure
-
-```text
 Healthcare_Product_Analytics/
 │
 ├── main.py
+├── config.py
+├── data_loader.py
+├── validator.py
+├── report.py
+│
 ├── data/
-├── charts/
+│   ├── medicine_data.csv
+│   └── clean_medicine_data.csv
+│
 ├── reports/
+│   └── quality_report.txt
+│
+├── charts/
 ├── exports/
-└── README.md
-```
+├── docs/
+├── logs/
+├── tests/
+└── config/
 
----
-
-## 📊 Sample Output
-
-- Dataset Preview
-- Summary Statistics
-- Category Analysis
-- Business Insights
-- Professional Charts
-
----
+Sample Output (v3.3)
 
 ## 🎯 Future Versions
 
-- Data Cleaning
+- Exploratory Data Analysis (v3.4)
+- Advanced Visualizations
 - Excel Export
 - SQLite Database
 - Power BI Dashboard
@@ -79,11 +76,11 @@ GitHub: https://github.com/Pnc-Tech/Healthcare-Product-Analytics
 ---
 ## 💻 Console Output
 
-![Console Output](project_output.png)
+![Console Output](project_output3.2.png)
 
 ## 📊 Data Quality Report
 
-![Quality Report](quality_report.png)
+![Quality Report](quality_report3.2.png)
 
 ## 📁 Project Structure
 

@@ -80,7 +80,7 @@ GitHub: https://github.com/Pnc-Tech/Healthcare-Product-Analytics
 
 ## 📊 Data Quality Report
 
-![Quality Report](quality_report3.2.png)
+![Quality Report](quality_report.png)
 
 ## 📁 Project Structure
 
